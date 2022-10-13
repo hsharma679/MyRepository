@@ -124,6 +124,14 @@ print(my_name)
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC # this is header
+# MAGIC - Bullet 1
+# MAGIC - bullet 2
+# MAGIC - [example link]("https://google.com")
+
+# COMMAND ----------
+
 display(example_df)
 
 # COMMAND ----------
